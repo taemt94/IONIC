@@ -1,28 +1,32 @@
-# IONIC
+# Data Acquisition System on real-world driving
 
 
 ## Available data list by priority
   - [ ] CAN
-  - [ ] GPS
+  - [ ] GNSS
   - [ ] Internal Cameras
   - [ ] External Cameras
   - [ ] LiDAR
   - [ ] Radar
 
 ## Build Environments
-  - Hardware
-    - Vehicle : Hyundai IONIC (2019)
-    - Computer
-    - CAN card
-    - GPS
-    - Interal Cameras
+  - Hardware : G.O.
+    - [Vehicle](./Info_HW/Vehicle.md)
+    - [PC](./Info_HW/PC.md)
+    - [CAN (Controller Area Network)](./Info_HW/CAN.md)
+    - [GNSS](./Info_HW/GNSS.md)
+    - Interal Camera
     - Exteral Cameras
     - LiDAR
     - Radar
   - Software
-    - Ubuntu 20.04
-    - ROS2 Foxy
-
+    - [PC](./Info_SW/PC.md)
+    - [CAN (Controller Area Network)](./Info_SW/CAN.md) : T.K. & H.I.
+    - [GNSS](./Info_SW/GNSS.md) : T.K. & H.I.
+    - Interal Camera : H.I.
+    - Exteral Cameras : H.I.
+    - LiDAR : T.K.
+    - Radar : T.K.
 ## Updates History
   - 2022-03-21 : Initial plan release
 

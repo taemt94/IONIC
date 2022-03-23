@@ -3,5 +3,12 @@
 [back to the main README.md](../README.md)
 
 ---
+## Inference
 
-This markdown will be described about CAN devices which we have.
+- running ros2  
+`$ rosfoxy`
+
+- check topic  
+`$ ...`
+
+## Screen Shot
